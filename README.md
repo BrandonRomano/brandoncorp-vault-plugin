@@ -1,5 +1,7 @@
 This is a sample Integration for Vault.
 
+Update for v1.1.0
+
 ## Using this Plugin
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sem nulla pharetra diam sit. Quisque sagittis purus sit amet volutpat consequat mauris nunc congue. In ornare quam viverra orci sagittis eu volutpat odio facilisis. Faucibus vitae aliquet nec ullamcorper sit amet risus nullam. Morbi non arcu risus quis. Ultrices neque ornare aenean euismod elementum nisi quis eleifend. Tempus iaculis urna id volutpat lacus laoreet. Platea dictumst vestibulum rhoncus est pellentesque. Facilisis mauris sit amet massa. Eget est lorem ipsum dolor sit amet consectetur adipiscing.
