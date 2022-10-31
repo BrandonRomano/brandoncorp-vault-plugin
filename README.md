@@ -1,6 +1,6 @@
 This is a sample Integration for Vault.
 
-Update for v1.3.0! Some updates!
+Update for v1.3.0! Some updates! Just a test :)
 
 ## Using this Plugin
 
