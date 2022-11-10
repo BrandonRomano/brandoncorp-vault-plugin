@@ -11,6 +11,7 @@ jobs:
       matrix:
         integration_identifier:
           - 'vault/brandoncorp-vault-plugin'
+          # - add more integrations as needed. Limit 256
     steps:
       # TODO, this will be moved to a published action
       - name: Checkout integration-release-action
